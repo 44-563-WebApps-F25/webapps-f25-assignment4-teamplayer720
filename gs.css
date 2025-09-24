@@ -1,0 +1,29 @@
+.speech{
+    font: 100;
+    font-size: 12;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.song{
+    font: 100;
+    font-size: 12;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.direction{
+    font: 100;
+    font-size: 12;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-color: azure;
+    
+}
+
+.name{
+    font: 100;
+    font-size: 12;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
