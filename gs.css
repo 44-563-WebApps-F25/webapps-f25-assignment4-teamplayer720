@@ -1,29 +1,53 @@
 .speech{
-    font: 100;
-    font-size: 12;
+    font-size: 12px;
     font-family: 'Times New Roman', Times, serif;
     color: black;
 }
 
 .song{
-    font: 100;
-    font-size: 12;
+    font-size: 12px;
     font-family: 'Times New Roman', Times, serif;
     color: black;
 }
 
 .direction{
-    font: 100;
-    font-size: 12;
+    font-size: 12px;
     font-family: 'Times New Roman', Times, serif;
     color: black;
     background-color: azure;
+    padding: 4px;
+    border-radius: 4px;
     
 }
 
+.direction:hover {
+    background-color: #cce7ff;
+    color: darkblue;
+}
 .name{
     font: 100;
     font-size: 12;
     font-family: 'Times New Roman', Times, serif;
     color: black;
+}
+
+.rob{
+     color: navy;
+}
+
+.adam{
+    color: aquamarine;
+}
+
+.both{
+    color: brown;
+}
+
+.chorus {
+  color: darkorange;
+  font-style: italic;
+} 
+
+.girls {
+  color: teal;
 }
