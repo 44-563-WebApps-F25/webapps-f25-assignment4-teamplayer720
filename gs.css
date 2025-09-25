@@ -86,3 +86,21 @@
 .casting-table {
   margin: 30px auto;
 }
+
+.rob:hover {
+  text-shadow: 2px 2px 6px magenta; 
+  border: 2px solid teal;          
+  padding: 4px 8px;           
+  border-radius: 6px;              
+  background-color: #f9f9ff;         
+  transition: all 0.3s ease-in-out; 
+}
+
+.adam:hover {
+  text-shadow: 2px 2px 6px magenta; 
+  border: 2px solid teal;          
+  padding: 4px 8px;           
+  border-radius: 6px;              
+  background-color: #f9f9ff;         
+  transition: all 0.3s ease-in-out; 
+}
